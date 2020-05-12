@@ -1,11 +1,11 @@
-# Welcome on the Netfront Challenge!
+# Welcome to the Netfront API Challenge!
 
 
 Hi!
 
-We've have a project that is currently in the development phase. The application is being built using (React.js + API) and the client want the users to be able to create blogs as well as share comments on these posts. Our mission is to build the API.
+We have a project that is currently in the development phase. The application is being built using (React.js + API) and the client would like the users to be able to create blogs as well as share comments on these posts. Our mission is to build the API.
 
-The client wants the API to be built using GraphQL in an extensible way because they have a lot of ideas for the future and think it will be easier to modify in the future.
+The client would like the API to be built using GraphQL in an extensible way because they have a lot of ideas for the future and think it will be easier to scale and modify in the future.
 
 As a team we have made some decisions about the infrastructure and the set-up of the API that cannot be changed at this time due to the delay:
 
@@ -59,8 +59,8 @@ We won't bother implementing a proper sorting method for the current version, wh
 
 If you have the time to implement the delete & update method that'd be amazing.
 
-Also if you can provide a shot concise document on "how to implement a new type" our intern will be able to do it himself in the future.
+Also if you can provide a short concise document on "how to implement a new type" our intern will be able to do it himself in the future.
 
-The client wants a demo of the API before Friday 5P.M, so feel free to push your changes whenever it's ready to review (in a .zip format to the address that sent you this test).
+The client wants a demo of the API before Friday 5PM, so feel free to push your changes whenever it's ready to review (in a .zip format to the address that sent you this challenge).
 
-If you have any inquiry, feel free to contact [me](mailto:cyrille@netfront.com.au) ! ✌
+If you have any inquiry, feel free to contact [me](mailto:jobs@netfront.com.au) ! ✌
