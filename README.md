@@ -63,4 +63,4 @@ Also if you can provide a shot concise document on "how to implement a new type"
 
 The client wants a demo of the API before Friday 5P.M, so feel free to push your changes whenever it's ready to review (in a .zip format to the address that sent you this test).
 
-If you have any inquiry, feel free to contact me ! ✌
+If you have any inquiry, feel free to contact [me](mailto:cyrille@netfront.com.au) ! ✌
