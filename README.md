@@ -26,7 +26,7 @@ The specifications of the application include:
 
 Our intern started to develop the API but he is facing some issues.
 
-Your mission, if you choose to accept it, is to firstly debug and find why our intern cannot perform the method properly, and provide feedback on how this was solved so it can be passed on to the rest of the team.
+Your mission, if you choose to accept it, is to firstly debug and find why our intern cannot perform some methods properly, and provide feedback on how this was solved so it can be passed on to the rest of the team.
 
 You then have to resume where he stopped. You have to finish the "Content". The customer wants to be able to add different kind of Content in a post such as :
 
