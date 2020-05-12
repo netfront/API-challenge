@@ -3,7 +3,7 @@
 
 Hi!
 
-We've have a project that is currently in the development phase. The application is being built using (React.js + API) and the client where users to be able to create blogs as well as share comments on these posts. Our mission is to build the API.
+We've have a project that is currently in the development phase. The application is being built using (React.js + API) and the client want the users to be able to create blogs as well as share comments on these posts. Our mission is to build the API.
 
 The client wants the API to be built using GraphQL in an extensible way because they have a lot of ideas for the future and think it will be easier to modify in the future.
 
