@@ -64,3 +64,9 @@ Also if you can provide a short concise document on "how to implement a new type
 The client wants a demo of the API before Friday 5PM, so feel free to push your changes whenever it's ready to review (in a .zip format to the address that sent you this challenge).
 
 If you have any inquiry, feel free to contact [me](mailto:jobs@netfront.com.au) ! ✌
+
+**Requirements**: 
+
+- PGSQL Installed
+- Dotnet 3.1
+
